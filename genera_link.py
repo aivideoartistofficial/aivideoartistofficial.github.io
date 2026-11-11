@@ -8,6 +8,7 @@ LINKS = {
     "pixverse": ("PixVerse", "https://motivaiprivatelimited.sjv.io/QYNRZ3"),
     "elevenlabs": ("ElevenLabs", "https://try.elevenlabs.io/fbsz4mwj1b6w"),
     "hailuo": ("Hailuo AI", "https://hailuoai.pxf.io/9VxNq5"),
+    "vidogrid": ("VidoGrid", "https://vidogrid.ai"),
 }
 
 PAGINA = """<!doctype html>
