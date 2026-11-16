@@ -9,6 +9,7 @@ LINKS = {
     "elevenlabs": ("ElevenLabs", "https://try.elevenlabs.io/fbsz4mwj1b6w"),
     "hailuo": ("Hailuo AI", "https://hailuoai.pxf.io/9VxNq5"),
     "vidogrid": ("VidoGrid", "https://vidogrid.ai"),
+    "loremotion": ("LoreMotion", "https://loremotion.com"),
 }
 
 PAGINA = """<!doctype html>
